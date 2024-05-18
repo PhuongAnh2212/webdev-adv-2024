@@ -28,3 +28,4 @@ Trúc
     npm install
     npm run format
     npm run dev
+    npm create @phaserjs/game@latest folder-name
